@@ -2,7 +2,7 @@
 <Layer
 		File="CJ126.mpg"
 		OnCommand="x,SCREEN_CENTER_X;y,SCREEN_CENTER_Y;zoomtowidth,SCREEN_WIDTH;zoomtoheight,SCREEN_WIDTH/4*3"
-		Offcommand="sleep,0.5;linear,0.5;diffusealpha,0.2;sleep,1.9;linear,0.3;diffusealpha,0"
+		OffCommand="sleep,0.5;linear,0.5;diffusealpha,0.2;sleep,1.9;linear,0.3;diffusealpha,0"
 	/>
 	<Layer 
 		File="H4Xi"
